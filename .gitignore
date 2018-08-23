@@ -1,0 +1,8 @@
+node_modules
+.idea/
+.DS_Store
+release
+dist
+dist_gecko
+dist_dev
+dist_offline
